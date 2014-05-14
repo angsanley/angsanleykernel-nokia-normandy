@@ -1,0 +1,1 @@
+cmd_block/test-iosched.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o block/test-iosched.ko block/test-iosched.o block/test-iosched.mod.o

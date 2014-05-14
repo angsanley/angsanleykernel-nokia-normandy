@@ -1,0 +1,2 @@
+kernel/drivers/staging/zram/zram.ko
+kernel/drivers/staging/zsmalloc/zsmalloc.ko

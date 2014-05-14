@@ -1,0 +1,3 @@
+kernel/drivers/regulator/fan53555.ko
+kernel/drivers/regulator/onsemi-ncp6335d.ko
+kernel/drivers/regulator/msm-gpio-regulator.ko

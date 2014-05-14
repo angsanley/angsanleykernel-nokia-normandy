@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-msm/sm_event_log.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/sm_event_log.ko arch/arm/mach-msm/sm_event_log.o arch/arm/mach-msm/sm_event_log.mod.o
