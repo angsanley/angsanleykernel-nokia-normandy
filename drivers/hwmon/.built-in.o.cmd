@@ -1,1 +1,0 @@
-cmd_drivers/hwmon/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/hwmon/built-in.o drivers/hwmon/hwmon.o drivers/hwmon/msm_adc.o drivers/hwmon/m_adcproc.o drivers/hwmon/bma2x2.o drivers/hwmon/ltr559.o 

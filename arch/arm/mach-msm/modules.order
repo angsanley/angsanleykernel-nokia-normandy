@@ -1,4 +1,0 @@
-kernel/arch/arm/mach-msm/dal_remotetest.ko
-kernel/arch/arm/mach-msm/sm_event_log.ko
-kernel/arch/arm/mach-msm/sm_event_driver.ko
-kernel/arch/arm/mach-msm/sleep_monitor.ko

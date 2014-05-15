@@ -1,6 +1,0 @@
-kernel/drivers/leds/led-class.ko
-kernel/drivers/leds/leds-gpio.ko
-kernel/drivers/leds/leds-pmic-mpp.ko
-kernel/drivers/leds/leds-msm-pdm.ko
-kernel/drivers/leds/leds-msm-tricolor.ko
-kernel/drivers/leds/leds-tricolor.ko

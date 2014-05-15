@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-msm/sm_event_driver.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/sm_event_driver.ko arch/arm/mach-msm/sm_event_driver.o arch/arm/mach-msm/sm_event_driver.mod.o

@@ -1,1 +1,0 @@
-cmd_drivers/media/video/msm/sensors/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/media/video/msm/sensors/built-in.o drivers/media/video/msm/sensors/msm_sensor.o drivers/media/video/msm/sensors/ov8825_v4l2.o drivers/media/video/msm/sensors/ar0542_v4l2.o drivers/media/video/msm/sensors/s5k5ca_v4l2.o drivers/media/video/msm/sensors/s5k5ca_darling_v4l2.o 

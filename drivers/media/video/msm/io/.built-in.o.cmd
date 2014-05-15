@@ -1,1 +1,0 @@
-cmd_drivers/media/video/msm/io/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/media/video/msm/io/built-in.o drivers/media/video/msm/io/msm_camera_io_util.o drivers/media/video/msm/io/msm_camera_i2c.o drivers/media/video/msm/io/msm_camera_i2c_mux.o drivers/media/video/msm/io/msm_io_7x27a_v4l2.o 

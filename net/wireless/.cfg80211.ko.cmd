@@ -1,1 +1,0 @@
-cmd_net/wireless/cfg80211.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o net/wireless/cfg80211.ko net/wireless/cfg80211.o net/wireless/cfg80211.mod.o

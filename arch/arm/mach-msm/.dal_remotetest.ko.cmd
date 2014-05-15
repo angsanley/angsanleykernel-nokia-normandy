@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-msm/dal_remotetest.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/dal_remotetest.ko arch/arm/mach-msm/dal_remotetest.o arch/arm/mach-msm/dal_remotetest.mod.o

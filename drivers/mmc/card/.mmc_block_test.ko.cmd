@@ -1,1 +1,0 @@
-cmd_drivers/mmc/card/mmc_block_test.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o drivers/mmc/card/mmc_block_test.ko drivers/mmc/card/mmc_block_test.o drivers/mmc/card/mmc_block_test.mod.o

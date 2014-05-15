@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-msm/sleep_monitor.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/sleep_monitor.ko arch/arm/mach-msm/sleep_monitor.o arch/arm/mach-msm/sleep_monitor.mod.o

@@ -1,5 +1,0 @@
-kernel/drivers/hwmon/hwmon.ko
-kernel/drivers/hwmon/msm_adc.ko
-kernel/drivers/hwmon/m_adcproc.ko
-kernel/drivers/hwmon/bma2x2.ko
-kernel/drivers/hwmon/ltr559.ko

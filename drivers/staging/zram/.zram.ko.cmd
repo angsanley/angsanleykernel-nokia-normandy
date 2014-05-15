@@ -1,1 +1,0 @@
-cmd_drivers/staging/zram/zram.ko := arm-linux-androideabi-ld -EL -r  -T /home/angsanley/android/konstat/kernel/scripts/module-common.lds --build-id  -o drivers/staging/zram/zram.ko drivers/staging/zram/zram.o drivers/staging/zram/zram.mod.o

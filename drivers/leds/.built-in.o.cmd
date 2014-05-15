@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/leds-gpio.o drivers/leds/leds-pmic-mpp.o drivers/leds/leds-msm-pdm.o drivers/leds/leds-msm-tricolor.o drivers/leds/leds-tricolor.o 
